@@ -2,7 +2,7 @@
 
 # Pyramid Blending
 </div>
-### 
+
 Merge	two	images	without	visible	seams	
 
 here are the functions in the code and explanation:
